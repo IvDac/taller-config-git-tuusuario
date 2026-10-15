@@ -3,3 +3,5 @@
 Jorge Pardo
 Ivan Castillo
 cristian cardona -->
+
+#Lo que aprendi
